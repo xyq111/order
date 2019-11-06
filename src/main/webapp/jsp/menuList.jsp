@@ -49,6 +49,7 @@
 	</head>
 
 	<body>
+	<h1>修改过的</h1>
 		<div class="navbar navbar-default" id="navbar">
 			<%@include file="common/header.jsp"%>
 			<!-- /.container -->
